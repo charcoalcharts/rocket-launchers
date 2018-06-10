@@ -67,7 +67,7 @@ d3.csv("dataset.csv", function(data) {
     s.sumAmount = d3.sum(s.values, function(d) { return d.amount; });
   });
   
-  categories.sort(function(a, b) { return b.maxAmount - a.maxAmount; });
+  categories.sort(function(a, b) { return b.sumAmount - a.sumAmount; });
 
   var g = svg.selectAll("g")
       .data(categories)

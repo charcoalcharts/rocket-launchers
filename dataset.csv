@@ -69,76 +69,76 @@ Russia,2023, 20
 Russia,2024, 17
 Russia,2025, 17
 Russia,2026,  8
-United States,1957,  1
-United States,1958, 23
-United States,1959, 20
-United States,1960, 29
-United States,1961, 41
-United States,1962, 59
-United States,1963, 46
-United States,1964, 65
-United States,1965, 72
-United States,1966, 78
-United States,1967, 63
-United States,1968, 48
-United States,1969, 41
-United States,1970, 29
-United States,1971, 33
-United States,1972, 32
-United States,1973, 25
-United States,1974, 23
-United States,1975, 30
-United States,1976, 27
-United States,1977, 26
-United States,1978, 33
-United States,1979, 16
-United States,1980, 15
-United States,1981, 19
-United States,1982, 18
-United States,1983, 22
-United States,1984, 22
-United States,1985, 18
-United States,1986,  9
-United States,1987,  9
-United States,1988, 11
-United States,1989, 18
-United States,1990, 27
-United States,1991, 19
-United States,1992, 29
-United States,1993, 25
-United States,1994, 27
-United States,1995, 30
-United States,1996, 33
-United States,1997, 38
-United States,1998, 36
-United States,1999, 31
-United States,2000, 28
-United States,2001, 22
-United States,2002, 17
-United States,2003, 23
-United States,2004, 16
-United States,2005, 12
-United States,2006, 18
-United States,2007, 19
-United States,2008, 15
-United States,2009, 24
-United States,2010, 15
-United States,2011, 18
-United States,2012, 13
-United States,2013, 19
-United States,2014, 23
-United States,2015, 20
-United States,2016, 22
-United States,2017, 30
-United States,2018, 34
-United States,2019, 27
-United States,2020, 44
-United States,2021, 51
-United States,2022, 87
-United States,2023,114
-United States,2024,154
-United States,2025,193
-United States,2026, 95
+United States,1957,  1
+United States,1958, 23
+United States,1959, 20
+United States,1960, 29
+United States,1961, 41
+United States,1962, 59
+United States,1963, 46
+United States,1964, 65
+United States,1965, 72
+United States,1966, 78
+United States,1967, 63
+United States,1968, 48
+United States,1969, 41
+United States,1970, 29
+United States,1971, 33
+United States,1972, 32
+United States,1973, 25
+United States,1974, 23
+United States,1975, 30
+United States,1976, 27
+United States,1977, 26
+United States,1978, 33
+United States,1979, 16
+United States,1980, 15
+United States,1981, 19
+United States,1982, 18
+United States,1983, 22
+United States,1984, 22
+United States,1985, 18
+United States,1986,  9
+United States,1987,  9
+United States,1988, 11
+United States,1989, 18
+United States,1990, 27
+United States,1991, 19
+United States,1992, 29
+United States,1993, 25
+United States,1994, 27
+United States,1995, 30
+United States,1996, 33
+United States,1997, 38
+United States,1998, 36
+United States,1999, 31
+United States,2000, 28
+United States,2001, 22
+United States,2002, 17
+United States,2003, 23
+United States,2004, 16
+United States,2005, 12
+United States,2006, 18
+United States,2007, 19
+United States,2008, 15
+United States,2009, 24
+United States,2010, 15
+United States,2011, 18
+United States,2012, 13
+United States,2013, 19
+United States,2014, 23
+United States,2015, 20
+United States,2016, 22
+United States,2017, 30
+United States,2018, 34
+United States,2019, 27
+United States,2020, 44
+United States,2021, 51
+United States,2022, 87
+United States,2023,114
+United States,2024,154
+United States,2025,193
+United States,2026, 95
 China,1958,  0
 China,1959,  0
 China,1960,  0
@@ -341,9 +341,4 @@ Other,2018, 13
 Other,2019, 10
 Other,2020,  9
 Other,2021,  8
-Other,2022,  8
-Other,2023, 18
-Other,2024, 17
-Other,2025, 14
-Other,2026,  3
-
+Other,
